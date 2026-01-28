@@ -1,0 +1,382 @@
+{
+  "title": "Rolex 3135 Movement Complete Disassembly and Assembly - Standard Operating Procedure",
+  "version": "3.0 - Detailed Version",
+  "equipment": "Rolex 3135 Automatic Mechanical Movement",
+  "difficulty_level": "Professional Grade (Requires Professional Watchmaking Training and Certification)",
+  "estimated_time": "90-120 minutes (Experienced Technician)",
+  "tools_required": [
+    "Precision Tweezers (2 pcs, 0.5mm tip width, anti-magnetic stainless steel)",
+    "Precision Screwdriver (flathead blade, 0.8mm width)",
+    "Torque Screwdriver (0.5 N·cm, optional)",
+    "Cleaning Cotton / Lint-free Cloth",
+    "Watch-specific Cleaning Solution",
+    "Air Blower (for dust removal)",
+    "Green Anti-slip Watch Repair Mat",
+    "Parts Sorting Tray",
+    "Case Back Opener",
+    "Spring Bar Tool (for bracelet installation)",
+    "Magnifier or Head-mounted Magnifier (5-10x)"
+  ],
+  "safety_notes": [
+    "All operations must be performed in a dust-free environment with dust cover recommended",
+    "All tools must be cleaned and anti-magnetic treated",
+    "Ruby jewel bearings are extremely fragile and expensive - handle with extreme care",
+    "All disassembled parts must be recorded in sequence and photographed",
+    "Screw torque must be strictly controlled within 0.5 N·cm",
+    "No eating or smoking above the movement",
+    "Escapement mechanism (balance wheel) is very fragile - must be disassembled last and assembled first"
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "phase": "Preparation Phase",
+      "timestamp": "00:00",
+      "action": "Initial Movement State Inspection",
+      "detail": "Place Rolex 3135 movement flat on green repair mat, perform preliminary inspection using magnifier. Identify main components: gold main barrel (approx. 20mm diameter, left side), silver main plate (brushed finish), 4 purple-red ruby bearings (approx. 2mm diameter), gear train system, 8 screw holes (approx. 1.5mm diameter). Photograph initial state.",
+      "tools": ["Green Watch Repair Mat", "Magnifier", "Camera"],
+      "warning": "Ensure clean dust-free environment, check movement for obvious damage or abnormalities"
+    },
+    {
+      "id": 2,
+      "phase": "Disassembly Phase",
+      "timestamp": "00:39",
+      "action": "Prepare to Remove Main Train Bridge",
+      "detail": "Hold red precision tweezers (tip width 0.5mm) in right hand, approach train bridge area from upper right. Position tweezers tip 2mm from bridge, observe bridge fixing screw positions (2 flathead screws).",
+      "tools": ["Precision Tweezers"],
+      "warning": "Do not apply excessive force with tweezers - avoid scratching plate surface or touching ruby bearings"
+    },
+    {
+      "id": 3,
+      "phase": "Disassembly Phase",
+      "timestamp": "01:01",
+      "action": "Extract Minute Pinion Gear",
+      "detail": "Use precision tweezers to grip minute pinion gear (MINUTE PINION N°3135-335, OD 5mm, central ruby bearing, 15 teeth). Grip outer ring, lift vertically 3mm until gear separates. Place in compartment #1 of parts tray.",
+      "tools": ["Precision Tweezers", "Parts Sorting Tray"],
+      "warning": "Avoid touching central ruby bearing - maintain vertical lift to prevent jamming"
+    },
+    {
+      "id": 4,
+      "phase": "Disassembly Phase",
+      "timestamp": "01:03",
+      "action": "Inspect Minute Pinion Gear Details",
+      "detail": "Move gear to lens front (5cm distance) for close-up. Observe bearing hole (1mm diameter), ruby bearing setting, tooth surface polish quality. Record part number: MINUTE PINION (N°3135-335), recommended lubricant: MOEBIUS 9501.",
+      "tools": ["Magnifier"],
+      "warning": "Check ruby bearing for looseness or damage - replace if damaged"
+    },
+    {
+      "id": 5,
+      "phase": "Disassembly Phase",
+      "timestamp": "01:16",
+      "action": "Prepare Two-Handed Main Train Bridge Removal",
+      "detail": "Left hand holds 1st tweezers approaching left edge, right hand holds 2nd tweezers approaching right edge. Confirm positions of 3 ruby bearings (gold outer rings) and 2 fixing screw holes (flathead, 1.5mm diameter). Bridge thickness 1.5mm.",
+      "tools": ["Precision Tweezers (2 pcs)"],
+      "warning": "Confirm bridge screws completely removed - forced lifting will damage screw holes"
+    },
+    {
+      "id": 6,
+      "phase": "Disassembly Phase",
+      "timestamp": "01:17",
+      "action": "Two-Handed Coordinated Main Train Bridge Removal",
+      "detail": "Left tweezers grip left edge (2mm width), right tweezers grip right edge. Apply even upward force simultaneously (50gf/side). Keep bridge horizontal. Initial lift 2mm, observe separation. Continue to 5mm until complete separation. Central ruby bearing (3mm diameter, gold ring) removes with bridge.",
+      "tools": ["Precision Tweezers (2 pcs)"],
+      "warning": "Must coordinate both hands evenly - prevent single-side drop causing ruby bearing damage. Maintain horizontal - tilt angle not exceeding 5 degrees"
+    },
+    {
+      "id": 7,
+      "phase": "Disassembly Phase",
+      "timestamp": "01:18",
+      "action": "Complete Train Bridge Removal and Inspect Movement",
+      "detail": "Remove bridge completely (5mm+ height) and place in compartment #2. Inspect post-removal state: large gold barrel wheel (15mm diameter) exposed, auto rotor bridge (silver, ruby bearings) visible, 4 screw holes (3mm depth) undamaged. Record bridge number (e.g. 3135-130).",
+      "tools": ["Precision Tweezers", "Parts Sorting Tray"],
+      "warning": "Immediately check bridge ruby bearings for looseness - inspect screw holes for thread damage"
+    },
+    {
+      "id": 8,
+      "phase": "Disassembly Phase",
+      "timestamp": "01:22",
+      "action": "Flip Movement to Back for Automatic Mechanism Disassembly",
+      "detail": "Carefully flip movement 180° with automatic mechanism facing up. Confirm visible: gold reversing wheel (center, 10mm diameter, radial pattern), silver rotor bridge (irregular shape, 3 screws), multiple gears (2-5mm diameter). Prepare screwdriver for bridge removal.",
+      "tools": ["Precision Screwdriver (flathead, 0.8mm width)"],
+      "warning": "Gentle flipping motion - avoid loose parts falling. Ensure stable placement"
+    },
+    {
+      "id": 9,
+      "phase": "Disassembly Phase",
+      "timestamp": "01:22-01:26",
+      "action": "Remove 3 Fixing Screws from Automatic Rotor Bridge",
+      "detail": "Use precision screwdriver (flathead, 0.8mm width) in diagonal sequence. Order: 1st (upper left) → 2nd (lower right) → 3rd (upper right). Each screw: 3-5 CCW turns to remove. Specs: flathead slot, 1.5mm diameter, 2mm length. Place in compartment #3, record quantity.",
+      "tools": ["Precision Screwdriver", "Parts Sorting Tray"],
+      "warning": "Blade must fully embed in slot - avoid slipping causing slot damage. Moderate force only"
+    },
+    {
+      "id": 10,
+      "phase": "Disassembly Phase",
+      "timestamp": "01:26",
+      "action": "Remove Automatic Rotor Bridge",
+      "detail": "Use tweezers to grip bridge edge (left protruding part), lift vertically 3mm for complete separation. Specs: WINDING BRIDGE N°3135-130, irregular shape, '3135' engraving, 3 screw holes (1.5mm), 1 central bearing seat (4mm), 1.5mm thickness. Place in compartment #4.",
+      "tools": ["Precision Tweezers", "Parts Sorting Tray"],
+      "warning": "Maintain vertical lift - avoid tilting causing parts in bearing hole to fall"
+    },
+    {
+      "id": 11,
+      "phase": "Disassembly Phase",
+      "timestamp": "01:29",
+      "action": "Inspect Automatic Rotor Bridge Details",
+      "detail": "Place bridge flat on green mat for detailed inspection. Confirm: irregular curved edge intact, central bearing hole (for rotor shaft) unworn, left 2 and right 1 screw holes threads intact, surface brushed finish scratch-free. Photograph front state.",
+      "tools": ["Magnifier", "Camera"],
+      "warning": "Check bearing hole inner wall for scratches/wear - record for lubrication attention during assembly"
+    },
+    {
+      "id": 12,
+      "phase": "Disassembly Phase",
+      "timestamp": "01:40",
+      "action": "Classify and Display Disassembled Automatic System Parts",
+      "detail": "Arrange rotor system parts on mat for photography. Layout: upper left - reversing wheel (gold gear, tweezers-held), center - rotor bridge body, lower left - 3 screws (flathead). Confirm all parts complete.",
+      "tools": ["Precision Tweezers", "Camera"],
+      "warning": "Confirm all small parts (especially screws/washers) properly placed to prevent loss"
+    },
+    {
+      "id": 13,
+      "phase": "Disassembly Phase",
+      "timestamp": "01:41",
+      "action": "Inspect Crown Wheel Component",
+      "detail": "Use tweezers to point at crown wheel (CROWN WHEEL N°3135-210) for close observation. Features: circular wheel with radial pattern (8mm diameter), approx. 20 teeth, central spring mechanism, installed in bridge groove. No disassembly - functional check only.",
+      "tools": ["Precision Tweezers", "Magnifier"],
+      "warning": "Crown wheel has internal spring - do not force disassemble to avoid spring ejection"
+    },
+    {
+      "id": 14,
+      "phase": "Disassembly Phase",
+      "timestamp": "01:47",
+      "action": "Finger Press Test Crown Wheel Elasticity",
+      "detail": "Use right index finger to press crown wheel center vertically, apply 100-200gf pressure, observe 0.5mm compression and rebound. Test purpose: confirm spring mechanism function normal, rebound force appropriate, no binding. Press 3-5 times for repeated testing.",
+      "tools": ["Manual Operation"],
+      "warning": "Moderate pressing force - avoid excessive force deforming spring. Confirm part returns to original position"
+    },
+    {
+      "id": 15,
+      "phase": "Disassembly Phase",
+      "timestamp": "01:51-03:34",
+      "action": "Deep Disassembly of Entire Train System",
+      "detail": "Continue disassembly in sequence: (1) Remove 2 escapement bridge screws → (2) Remove escapement bridge (with ruby bearings) → (3) Extract balance wheel assembly (most delicate, 10mm diameter, extra care) → (4) Extract pallet fork (6mm length) → (5) Remove escape wheel (8mm diameter, 15 teeth) → (6) Sequentially disassemble gear train: second wheel, third wheel, fourth wheel (2-8mm diameter). Place each part in corresponding tray compartment, photograph sequence.",
+      "tools": ["Precision Tweezers", "Precision Screwdriver", "Parts Sorting Tray", "Camera"],
+      "warning": "Balance wheel most fragile - must grip balance staff ends only, never touch wheel body. Record all gear sequence, recommend numbering labels"
+    },
+    {
+      "id": 16,
+      "phase": "Cleaning & Maintenance Phase",
+      "timestamp": "03:56",
+      "action": "Movement Back Deep Cleaning",
+      "detail": "Comprehensive cleaning of movement back: (1) Use tweezers with cleaning cotton dipped in watch cleaning solution, gently wipe rotor mounting bearing seat → (2) Use air blower to remove metal debris from screw holes → (3) Wipe ruby bearing areas with cleaning cotton, remove oil/dust → (4) Inspect movement baseplate for scratches/corrosion. After cleaning, only main barrel and base frame remain.",
+      "tools": ["Precision Tweezers", "Cleaning Cotton", "Watch Cleaning Solution", "Air Blower"],
+      "warning": "Do not use excessive cleaning solution - avoid penetration into bearing holes. Use lint-free cotton to avoid residue. Gentle wiping only"
+    },
+    {
+      "id": 17,
+      "phase": "Cleaning & Maintenance Phase",
+      "timestamp": "04:00-08:30",
+      "action": "Clean and Inspect All Disassembled Parts",
+      "detail": "Clean and inspect each disassembled part: (1) Soak small parts (gears, bearings) in cleaning solution 3-5 minutes → (2) Gently brush gear teeth with soft brush → (3) Dry all parts with cleaning cotton → (4) Inspect each part with magnifier: gear tooth wear, ruby bearing looseness, screw thread damage, bridge surface cracks → (5) Rearrange cleaned parts in assembly order. Record parts needing replacement (if any).",
+      "tools": ["Watch Cleaning Solution", "Soft Brush", "Cleaning Cotton", "Magnifier", "Camera"],
+      "warning": "Balance wheel assembly cannot be soaked - only gently wipe with cotton swab. Loose ruby bearings must be replaced, cannot continue use"
+    },
+    {
+      "id": 18,
+      "phase": "Assembly Phase",
+      "timestamp": "08:39",
+      "action": "Begin Assembly - Install Escape Wheel System (Key Turning Point)",
+      "detail": "Flip movement to front (opposite from disassembly) to begin assembly. First step - install escape wheel system: (1) Apply lubricant to escape wheel bearing hole (MOEBIUS 9010, 0.01mm³) → (2) Use tweezers to grip escape wheel (8mm diameter) staff end, align to bearing hole → (3) Insert vertically downward, 2mm depth → (4) Gently rotate escape wheel 360°, confirm smooth rotation without binding.",
+      "tools": ["Precision Tweezers", "Lubricant MOEBIUS 9010", "Oil Pen"],
+      "warning": "Minimal lubricant quantity - excess causes oil spread. Must maintain vertical insertion - tilting damages bearing hole"
+    },
+    {
+      "id": 19,
+      "phase": "Assembly Phase",
+      "timestamp": "08:45",
+      "action": "Install Pallet Fork",
+      "detail": "Install pallet fork (6mm length): (1) Apply lubricant to pallet fork bearing hole (MOEBIUS 9010) → (2) Grip pallet fork center with tweezers, align to bearing hole → (3) Insert vertically, ensure fork horns correctly engage escape wheel teeth → (4) Gently push pallet, observe if escape wheel rotates accordingly, confirm proper meshing.",
+      "tools": ["Precision Tweezers", "Lubricant"],
+      "warning": "Pallet fork is core component - must ensure fork horn to escape wheel tooth clearance correct (0.02mm), otherwise affects timekeeping accuracy"
+    },
+    {
+      "id": 20,
+      "phase": "Assembly Phase",
+      "timestamp": "08:50",
+      "action": "Install Balance Wheel Assembly",
+      "detail": "Install most delicate balance wheel assembly (10mm diameter): (1) Apply minimal lubricant to balance bearing hole (MOEBIUS 9010, 0.005mm³) → (2) Two-handed operation: left tweezers grip balance staff upper end, right tweezers support balance lower end → (3) Align balance staff vertically to bearing hole, slowly insert → (4) After releasing tweezers, gently blow balance wheel to free swing, observe amplitude should be ≥270°, swing duration ≥30 seconds.",
+      "tools": ["Precision Tweezers (2 pcs)", "Lubricant"],
+      "warning": "Balance wheel most fragile component - never touch wheel body, only contact staff ends. Do not force rotation after insertion - let it freely swing for testing"
+    },
+    {
+      "id": 21,
+      "phase": "Assembly Phase",
+      "timestamp": "09:00",
+      "action": "Install and Secure Escapement Bridge",
+      "detail": "Install escapement bridge (with 2 ruby bearings): (1) Confirm balance and escape wheel positions correct → (2) Grip bridge with tweezers, place horizontally on movement, align 2 screw holes → (3) Tighten 2 fixing screws with screwdriver in diagonal sequence (1st→2nd) → (4) Torque control: approx. 0.5 N·cm each, use torque driver or hand feel → (5) Gently blow balance again, confirm amplitude and duration unaffected.",
+      "tools": ["Precision Tweezers", "Precision Screwdriver", "Torque Screwdriver (optional)"],
+      "warning": "Do not over-tighten screws - excessive torque deforms bridge pressing balance staff, affecting timekeeping. Must retest balance swing after tightening"
+    },
+    {
+      "id": 22,
+      "phase": "Assembly Phase",
+      "timestamp": "09:02-09:35",
+      "action": "Sequentially Install Gear Train",
+      "detail": "Install gear train in sequence: (1) Third wheel (5mm diameter): apply lubricant → align bearing hole → insert vertically → test rotation → (2) Fourth wheel (4mm diameter): same steps, confirm meshing with third wheel → (3) Second wheel (6mm diameter): same steps → (4) Minute pinion (5mm diameter, first gear removed): align installation position, ensure proper meshing with hour wheel. After installing each gear, must gently rotate 360°, confirm smooth rotation without binding, proper meshing with adjacent gears, no abnormal noise.",
+      "tools": ["Precision Tweezers", "Lubricant", "Oil Pen"],
+      "warning": "Gear installation sequence cannot be reversed - must strictly follow disassembly reverse order. Each gear meshing clearance 0.02-0.05mm - too tight or loose affects timekeeping"
+    },
+    {
+      "id": 23,
+      "phase": "Assembly Phase",
+      "timestamp": "09:41",
+      "action": "Install Main Train Bridge",
+      "detail": "Reinstall initially removed main train bridge: (1) Confirm 3 ruby bearings on bridge intact and clean → (2) Grip bridge edges with both tweezers, align horizontally to mounting position → (3) Slowly lower, ensure 3 gear staffs below correctly insert into bridge bearing holes → (4) Gently press bridge flush to movement baseplate → (5) Tighten 2 fixing screws in diagonal sequence (torque 0.5 N·cm) → (6) Rotate barrel wheel, confirm entire train operates smoothly.",
+      "tools": ["Precision Tweezers (2 pcs)", "Precision Screwdriver"],
+      "warning": "When placing bridge, must ensure all gear staffs align to bearing holes simultaneously - single-side entry first bends staff ends. Must test train after tightening screws"
+    },
+    {
+      "id": 24,
+      "phase": "Assembly Phase",
+      "timestamp": "10:00-12:00",
+      "action": "Install Remaining Bridges and Train Components",
+      "detail": "Continue installing remaining components on movement front: (1) Install calendar mechanism (if applicable) → (2) Install hour wheel and minute wheel → (3) Install related bridges and secure → (4) Check all fixing screws tightened → (5) Manually rotate movement, test complete train function: rotate barrel → observe all gears rotating → confirm escapement mechanism working properly → observe second wheel rotation speed (should be 1/5 revolution per second, i.e. 6°/second).",
+      "tools": ["Precision Tweezers", "Precision Screwdriver", "Lubricant"],
+      "warning": "All bridge screws must be tightened in diagonal sequence to prevent bridge deformation. If any abnormality during function test (binding, noise, rough rotation), must immediately stop and recheck"
+    },
+    {
+      "id": 25,
+      "phase": "Assembly Phase",
+      "timestamp": "12:31",
+      "action": "Complete Train System Inspection",
+      "detail": "Comprehensive inspection of assembled train system: (1) Visual check: large gold gear train (triple gear set, 12mm diameter) positioned correctly, barrel area (gold, 15mm diameter) not loose, escapement regulator (balance 10mm diameter) swinging normally, all bridges (silver, ruby bearings) flush fit, approx. 6 fixing screws all tight → (2) Function test: manually wind 10 turns → observe second wheel rotation → measure balance amplitude (should be ≥270°) → listen to movement operation sound (should be even and regular, no abnormal noise). Photograph assembled state.",
+      "tools": ["Camera", "Amplitude Meter (optional)", "Winding Tool"],
+      "warning": "If amplitude below 270°, indicates excessive train resistance or insufficient lubrication - need recheck. If abnormal noise present, must disassemble to locate noise source"
+    },
+    {
+      "id": 26,
+      "phase": "Assembly Phase",
+      "timestamp": "13:23-13:46",
+      "action": "Install Dial-Side Hour/Minute Hand Mechanism",
+      "detail": "Install components connecting to dial on movement front: (1) Install minute wheel (7mm diameter): align to central shaft hole, ensure meshing with minute pinion → (2) Install hour wheel (9mm diameter): fit around minute wheel outer ring, ensure coaxiality → (3) Install hand-setting mechanism: including clutch lever, setting wheel etc. → (4) Test hand-setting function: pull out crown → rotate crown → observe if hour/minute hands follow rotation → hour hand should rotate at 1/12 speed of minute hand → push in crown, confirm clutch reset.",
+      "tools": ["Precision Tweezers", "Lubricant"],
+      "warning": "Hour/minute wheels must ensure coaxiality, deviation cannot exceed 0.05mm, otherwise causes hand jamming. Do not use excessive force during hand-setting test - avoid damaging setting mechanism"
+    },
+    {
+      "id": 27,
+      "phase": "Assembly Phase",
+      "timestamp": "14:01",
+      "action": "Flip Movement to Back to Begin Automatic Winding Assembly",
+      "detail": "Carefully flip movement 180° to automatic mechanism side up. Confirm preparation: (1) Auto rotor reversing wheel and related gears cleaned and lubricated → (2) Auto rotor bridge clean and intact → (3) 3 fixing screws ready → (4) Confirm front train system not loosened during flipping.",
+      "tools": [],
+      "warning": "Gentle flipping motion - avoid impact to installed components. Ensure stable placement after flipping"
+    },
+    {
+      "id": 28,
+      "phase": "Assembly Phase",
+      "timestamp": "14:33",
+      "action": "Install Automatic Rotor Reversing Wheel",
+      "detail": "Install auto rotor reversing wheel (gold, 10mm diameter, radial pattern): (1) Apply lubricant to reversing wheel bearing seat (MOEBIUS 9010) → (2) Grip reversing wheel center shaft with tweezers, align to bearing seat → (3) Insert vertically, ensure wheel's lower gear properly meshes with internal train wheel → (4) Gently rotate reversing wheel 360°, confirm smooth rotation without binding, proper gear meshing, no abnormal noise or resistance.",
+      "tools": ["Precision Tweezers", "Lubricant"],
+      "warning": "Reversing wheel must ensure complete meshing with lower train gear, clearance 0.02-0.05mm. Rotation test should feel even resistance, no binding points"
+    },
+    {
+      "id": 29,
+      "phase": "Assembly Phase",
+      "timestamp": "14:55",
+      "action": "Install and Secure Automatic Rotor Bridge",
+      "detail": "Reinstall auto rotor bridge (WINDING BRIDGE N°3135-130): (1) Confirm bridge orientation correct ('3135' engraving up) → (2) Grip bridge edge with tweezers, align horizontally to mounting position → (3) Slowly lower, ensure central bearing hole correctly fits on reversing wheel shaft → (4) Align 3 screw holes → (5) Tighten 3 fixing screws in diagonal sequence: 1st (upper left, 0.5 N·cm) → 2nd (lower right, 0.5 N·cm) → 3rd (upper right, 0.5 N·cm) → (6) Confirm bridge flush fit, no warping or tilting.",
+      "tools": ["Precision Tweezers", "Precision Screwdriver", "Torque Screwdriver (optional)"],
+      "warning": "Screws must be tightened in diagonal sequence to prevent bridge deformation. After tightening, gently rotate reversing wheel to confirm rotation unaffected"
+    },
+    {
+      "id": 30,
+      "phase": "Assembly Phase",
+      "timestamp": "15:00",
+      "action": "Test Automatic Winding Mechanism Function",
+      "detail": "Test if auto winding mechanism working properly: (1) Hold movement, simulate wrist motion (shake left-right, amplitude 30°, frequency 2x/second) → (2) Observe if reversing wheel follows motion and rotates → (3) Rotation should be smooth and bidirectional (clockwise and counterclockwise) → (4) Listen to auto winding sound (should be light clicking, regular rhythm) → (5) After stopping motion, reversing wheel should stop quickly, no inertial coasting (coasting not exceeding 1/4 turn).",
+      "tools": [],
+      "warning": "If reversing wheel does not rotate or rotation not smooth, check gear meshing and lubrication. If abnormal noise or excessive inertial coasting, need recheck bridge installation"
+    },
+    {
+      "id": 31,
+      "phase": "Final Assembly Phase",
+      "timestamp": "15:13",
+      "action": "Install Movement into Watch Case",
+      "detail": "Install assembled movement into Rolex case (stainless steel, 40mm diameter): (1) Confirm case interior clean without dust → (2) Check movement holder intact → (3) Left hand holds case (crown position toward 3 o'clock), right hand holds movement → (4) Confirm movement orientation correct (crown stem aligned to case crown hole) → (5) Slowly insert movement into case, ensure even descent on all sides → (6) Gently press movement edge (pressure 200gf), seat movement completely → (7) Install movement holder, rotate clockwise to lock (approx. 90° rotation).",
+      "tools": ["Movement Holder Tool (optional)"],
+      "warning": "Ensure correct movement orientation during insertion - misalignment prevents crown installation. Even pressure when pressing - do not apply single-side force. Holder must be locked tight, otherwise movement loosens"
+    },
+    {
+      "id": 32,
+      "phase": "Final Assembly Phase",
+      "timestamp": "15:29",
+      "action": "Install Transparent Case Back",
+      "detail": "Install transparent case back (sapphire crystal): (1) Check case back seal (O-ring) intact, no aging cracks → (2) Apply thin layer of silicone grease on seal (improves water resistance) → (3) Correctly install seal in case back groove → (4) Align case back to case rear, ensure correct orientation (threads aligned) → (5) Use case back opener or manually rotate case back, clockwise rotation approx. 180° until resistance significantly increases (indicates locked) → (6) Check if case back flush with case, even gap.",
+      "tools": ["Case Back Opener", "Silicone Grease"],
+      "warning": "Seal must be intact - replace if damaged, otherwise loses water resistance. Do not use excessive force when tightening - avoid damaging threads. Check if case back level after tightening"
+    },
+    {
+      "id": 33,
+      "phase": "Final Assembly Phase",
+      "timestamp": "16:18",
+      "action": "Install Bracelet",
+      "detail": "Connect metal bracelet (Rolex Oyster) to case: (1) Check case lugs (connection holes on case sides) intact → (2) Prepare 2 spring bars (1.5mm diameter, 20mm length) → (3) Use spring bar tool to compress spring bar end → (4) Insert spring bar ends into lug hole and bracelet hole respectively → (5) Release spring bar tool, confirm spring bar fully engaged in lug hole → (6) Repeat steps to install second spring bar on other case side → (7) Pull test bracelet (pull force approx. 2kg), confirm secure connection.",
+      "tools": ["Spring Bar Tool", "Spring Bar (2 pcs)"],
+      "warning": "Pay attention to orientation when installing spring bar, ensure spring end faces outward. Must pull test after installation to prevent detachment during wear"
+    },
+    {
+      "id": 34,
+      "phase": "Final Assembly Phase",
+      "timestamp": "16:39",
+      "action": "Comprehensive Function Testing",
+      "detail": "Perform function tests on complete watch: (1) Winding test: rotate crown clockwise 20-30 turns, feel resistance gradually increasing (indicates mainspring wound) → (2) Hand-setting test: pull crown to position 1 (quick-set calendar, if applicable) or position 2 (hand-setting) → rotate crown → observe if hour/minute hands rotate smoothly → hour hand should rotate at 1/12 speed of minute hand → push crown to original position → (3) Timekeeping test: observe second hand operation → second hand should rotate smoothly, beat 5x per second (28800 bph movement) → no binding or backward movement → (4) Auto winding test: shake watch left-right (amplitude 30°) → listen for auto rotor rotation sound.",
+      "tools": [],
+      "warning": "Do not use excessive force when winding - stop when resistance significantly increases to avoid over-tensioning mainspring. Gentle motion during hand-setting - do not rapidly rotate crown"
+    },
+    {
+      "id": 35,
+      "phase": "Quality Inspection Phase",
+      "timestamp": "17:41",
+      "action": "Appearance Cleaning and Final Inspection",
+      "detail": "Perform final cleaning and inspection of watch: (1) Wipe case surface with lint-free cloth, remove fingerprints and oil → (2) Wipe watch crystal and transparent case back with specialized glass cleaner → (3) Clean each bracelet link, use soft brush to remove dust from gaps → (4) Inspect all case areas: lugs for scratches, crown for looseness, case back for secure lock, bracelet connection for firmness → (5) Check transparent case back: confirm movement visible, no fingerprints/fogging, seal positioned correctly → (6) Final appearance check: no obvious scratches, no dust, no oil, overall good luster.",
+      "tools": ["Lint-free Cleaning Cloth", "Glass Cleaning Solution", "Soft Brush"],
+      "warning": "Avoid cleaning solution entering case interior during cleaning. Use specialized cleaner when wiping crystal to avoid water marks"
+    },
+    {
+      "id": 36,
+      "phase": "Quality Inspection Phase",
+      "timestamp": "17:48",
+      "action": "Timekeeping Accuracy Test and Quality Confirmation",
+      "detail": "Perform final timekeeping accuracy test and quality confirmation: (1) Place watch on timegrapher for timekeeping test (or use mobile app for simple test) → (2) Record timekeeping data: instantaneous daily rate (should be within ±2 seconds/day), amplitude (should be ≥270°), beat error (should be <1ms) → (3) Listen to movement operation sound: should be regular ticking, even frequency, no abnormal noise → (4) Function confirmation checklist: ✓ Auto winding function normal ✓ Hand-setting function normal ✓ Manual winding function normal ✓ Second hand operation smooth ✓ No abnormal noise ✓ Appearance intact ✓ Water seal intact → (5) Record completion time and technician signature → (6) Notify customer watch service completed.",
+      "tools": ["Timegrapher (optional)", "Mobile Timegrapher App (optional)"],
+      "warning": "If timekeeping accuracy not within standard range (±2 seconds/day), need recheck movement train system. 24-hour timekeeping test required after service completion to ensure long-term stability"
+    }
+  ],
+  "quality_check": [
+    "Timekeeping Accuracy Test: Instantaneous daily rate within ±2 seconds/day",
+    "Amplitude Test: Balance wheel amplitude ≥270 degrees",
+    "Function Test: Automatic winding, manual winding, hand-setting all functions normal",
+    "Appearance Inspection: No scratches, no dust, seals intact",
+    "Sound Detection: Movement operation sound regular and even, no abnormal noise",
+    "Water Resistance: Case back seal intact, water resistance function normal",
+    "24-hour Timekeeping Test: Recommend 24-hour continuous timekeeping test after service completion"
+  ],
+  "notes": [
+    "This SOP applies to complete disassembly and assembly of Rolex 3135 automatic mechanical movement",
+    "Operation requires professional tools and clean dust-free environment",
+    "Recommended to perform under guidance of experienced watchmaker - beginners not recommended for independent operation",
+    "All parts must be assembled in reverse order of disassembly - recommend photographing each step",
+    "Lubricant usage should be minimal - excessive amount causes oil spread affecting timekeeping",
+    "Ruby jewel bearings are expensive and fragile components - damage requires replacement with genuine parts",
+    "Screw torque controlled at 0.5 N·cm - avoid stripping or breaking",
+    "Must perform 24-hour timekeeping test after service completion to ensure accuracy meets standards",
+    "If any parts need replacement, must use Rolex genuine parts",
+    "Service records should be properly preserved including disassembly photos, parts list, timekeeping data, etc."
+  ],
+  "reference_materials": [
+    "Rolex 3135 Movement Technical Manual",
+    "Watch Lubricant Usage Guide (MOEBIUS Product Series)",
+    "Watch Repair Tool Usage Standards",
+    "Timekeeping Accuracy Test Standards (ISO 3159)"
+  ]
+}
